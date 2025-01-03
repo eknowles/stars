@@ -130,6 +130,7 @@
 
 ## HTML 
 
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [gerry-rohling/structurizr-parser](https://github.com/gerry-rohling/structurizr-parser) - Parses Structurizr DSL files to support workspace population, code validation and other uses
 - [peter-dickinson-books/peterdickinson.com](https://github.com/peter-dickinson-books/peterdickinson.com) - 
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -468,6 +469,8 @@
 
 ## Python 
 
+- [AccentuSoft/LinkScope-Module-Packs](https://github.com/AccentuSoft/LinkScope-Module-Packs) - Module Packs for LinkScope Client
+- [AccentuSoft/LinkScope_Client](https://github.com/AccentuSoft/LinkScope_Client) - Repository for the LinkScope Client software.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [yinruiqing/pyannote-whisper](https://github.com/yinruiqing/pyannote-whisper) - 
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
@@ -573,6 +576,7 @@
 
 ## TypeScript 
 
+- [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
 - [brisa-build/brisa](https://github.com/brisa-build/brisa) - The Web Platform Framework.
 - [torokmark/design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) - :triangular_ruler: Design pattern implementations in TypeScript
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
