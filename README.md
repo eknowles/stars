@@ -10,6 +10,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Dart](#dart)
 - [EJS](#ejs)
 - [Elixir](#elixir)
 - [Go](#go)
@@ -82,6 +83,10 @@
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [guideguide/grid-notation](https://github.com/guideguide/grid-notation) - A human friendly(ish), written grid language
 - [jnordberg/wintersmith](https://github.com/jnordberg/wintersmith) - A flexible static site generator
+
+## Dart 
+
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
 ## EJS 
 
