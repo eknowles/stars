@@ -413,6 +413,7 @@
 
 ## Others 
 
+- [stephansturges/NANO](https://github.com/stephansturges/NANO) - Neural Autonomous Navigation Observer is a set of very small DNNs for drones to detect a few simple objects
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [dstl/IES4](https://github.com/dstl/IES4) - The Information Exchange Standard (IES) is a standard for information exchange developed within UK Government.
 - [pedroosz/elysia-kickstart](https://github.com/pedroosz/elysia-kickstart) - a kickstart project for using bun + elysia + drizzle and postgresql
