@@ -137,7 +137,6 @@
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [gerry-rohling/structurizr-parser](https://github.com/gerry-rohling/structurizr-parser) - Parses Structurizr DSL files to support workspace population, code validation and other uses
 - [peter-dickinson-books/peterdickinson.com](https://github.com/peter-dickinson-books/peterdickinson.com) - 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [sparklinlabs/resize-handle](https://github.com/sparklinlabs/resize-handle) - Robust resize handles / splitters for your HTML5 apps and websites
 - [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [rprieto/supersamples](https://github.com/rprieto/supersamples) - Documentation and samples for your Node.js REST API
@@ -164,6 +163,7 @@
 
 ## JavaScript 
 
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [gitleaks/gitleaks-action](https://github.com/gitleaks/gitleaks-action) - Protect your secrets using Gitleaks-Action
 - [JetBrains/writerside-github-action](https://github.com/JetBrains/writerside-github-action) - Writerside curated GitHub Action used to generate the documentation website using JetBrains Writerside
 - [yetzt/tileblaster](https://github.com/yetzt/tileblaster) - tileblaster is a map tile caching (and optimizing) proxy, designed to run with nginx.
@@ -475,6 +475,7 @@
 
 ## Python 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [AccentuSoft/LinkScope-Module-Packs](https://github.com/AccentuSoft/LinkScope-Module-Packs) - Module Packs for LinkScope Client
 - [AccentuSoft/LinkScope_Client](https://github.com/AccentuSoft/LinkScope_Client) - Repository for the LinkScope Client software.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -515,6 +516,7 @@
 - [Weisl/simple_renaming](https://github.com/Weisl/simple_renaming) - Simple Renaming Addon for Blender
 - [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Face
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [httpie/httpie-ntlm](https://github.com/httpie/httpie-ntlm) - NTLM auth plugin for HTTPie
@@ -582,6 +584,9 @@
 
 ## TypeScript 
 
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [louisescher/starlight-ion-theme](https://github.com/louisescher/starlight-ion-theme) - A sleek, modern theme for Starlight.
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
