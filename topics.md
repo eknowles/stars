@@ -668,7 +668,6 @@
 ## hacktoberfest 
 
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [brisa-build/brisa](https://github.com/brisa-build/brisa) - The Web Platform Framework.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
