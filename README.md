@@ -475,6 +475,8 @@
 
 ## Python 
 
+- [mie-lab/trackintel](https://github.com/mie-lab/trackintel) - trackintel is a framework for spatio-temporal analysis of movement trajectory and mobility data.
+- [xoolive/traffic](https://github.com/xoolive/traffic) - A toolbox for processing and analysing air traffic data
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [AccentuSoft/LinkScope-Module-Packs](https://github.com/AccentuSoft/LinkScope-Module-Packs) - Module Packs for LinkScope Client
 - [AccentuSoft/LinkScope_Client](https://github.com/AccentuSoft/LinkScope_Client) - Repository for the LinkScope Client software.
