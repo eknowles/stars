@@ -98,6 +98,7 @@
 
 ## Go 
 
+- [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -387,7 +388,7 @@
 
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [City-Form-Lab/madina](https://github.com/City-Form-Lab/madina) - A Python library modeling pedestrian and bicycle trips over networks.
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [traja-team/traja](https://github.com/traja-team/traja) - Python tools for spatial trajectory and time-series data analysis
 - [gladcolor/LLM-Geo](https://github.com/gladcolor/LLM-Geo) - 
 - [fivethirtyeight/data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
