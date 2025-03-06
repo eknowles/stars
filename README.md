@@ -38,6 +38,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -94,7 +95,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 ## Go 
 
@@ -583,6 +584,10 @@
 - [justinthelaw/repository-template](https://github.com/justinthelaw/repository-template) - A repository template for testing developer workflows and practices
 - [terrestris/k8s-geoserver-helm](https://github.com/terrestris/k8s-geoserver-helm) - 
 
+## Svelte 
+
+- [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+
 ## Swift 
 
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
@@ -619,7 +624,6 @@
 - [nilsnolde/routingjs](https://github.com/nilsnolde/routingjs) - Library for consistent access to various vehicle routing APIs
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
 - [makit/aws-serverless-twitter-bot](https://github.com/makit/aws-serverless-twitter-bot) - An AWS Cloud Native application using CDK that defines a Serverless Event Driven application for interacting with Twitter and utilising Machine Learning / AI as a Service.
