@@ -189,7 +189,7 @@
 ## analytics 
 
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Turn your traffic into valuable insights". UAParser.js: The Essential Web Development Tool for User-Agent Detection.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [snowplow/snowplow](https://github.com/snowplow/snowplow) - The leader in Next-Generation Customer Data Infrastructure
 - [18F/analytics-reporter](https://github.com/18F/analytics-reporter) - Lightweight analytics reporting and publishing tool for Digital Analytics Program's Google Analytics 360 data.
