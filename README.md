@@ -567,7 +567,6 @@
 
 - [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
 - [nh2/internal-contstrained-pki](https://github.com/nh2/internal-contstrained-pki) - Safely shareable TLS root CA for .internal networks using Name Constraints
-- [defenseunicorns/zarf-package-k3d-airgap](https://github.com/defenseunicorns/zarf-package-k3d-airgap) - Deploy k3d in an air-gapped environment
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [OvertureMaps/overture-tiles](https://github.com/OvertureMaps/overture-tiles) - create tiles from overture data
 - [oscarfonts/docker-geoserver](https://github.com/oscarfonts/docker-geoserver) - 
