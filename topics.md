@@ -110,6 +110,7 @@
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -858,6 +859,7 @@
 
 ## kubernetes 
 
+- [defenseunicorns/pepr](https://github.com/defenseunicorns/pepr) - :unicorn: Type safe K8s middleware for humans
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
@@ -1008,6 +1010,12 @@
 
 - [fosterlabs/botstackjs](https://github.com/fosterlabs/botstackjs) - 🤖  :open_file_folder: Node.js Multi-page Bot Framework for Facebook Messenger
 
+## no-code 
+
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+
 ## node 
 
 - [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
@@ -1079,6 +1087,7 @@
 
 ## npm 
 
+- [defenseunicorns/pepr](https://github.com/defenseunicorns/pepr) - :unicorn: Type safe K8s middleware for humans
 - [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [Turistforeningen/node-mongo-querystring](https://github.com/Turistforeningen/node-mongo-querystring) - Query builder for accepting URL query parameters into your MongoDB queries. Safe and feature rich. Supports most of MongoDB's query operators such as $eq, $gt, $lt, $ne, $in, $nin, $exists, $regex, ge
@@ -1668,6 +1677,7 @@
 
 ## typescript 
 
+- [defenseunicorns/pepr](https://github.com/defenseunicorns/pepr) - :unicorn: Type safe K8s middleware for humans
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [brisa-build/brisa](https://github.com/brisa-build/brisa) - The Web Platform Framework.
 - [torokmark/design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) - :triangular_ruler: Design pattern implementations in TypeScript
