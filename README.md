@@ -169,6 +169,7 @@
 
 ## JavaScript 
 
+- [rpbouman/huey](https://github.com/rpbouman/huey) - Light-weight, browser-based ROLAP pivot tables on top of DuckDB-WASM
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [gitleaks/gitleaks-action](https://github.com/gitleaks/gitleaks-action) - Protect your secrets using Gitleaks-Action
 - [JetBrains/writerside-github-action](https://github.com/JetBrains/writerside-github-action) - Writerside curated GitHub Action used to generate the documentation website using JetBrains Writerside
