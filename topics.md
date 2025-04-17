@@ -17,6 +17,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
+- [azure](#azure)
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
@@ -48,6 +49,7 @@
 - [deno](#deno)
 - [design](#design)
 - [development](#development)
+- [devops](#devops)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -278,11 +280,16 @@
 
 ## aws 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [makit/aws-serverless-twitter-bot](https://github.com/makit/aws-serverless-twitter-bot) - An AWS Cloud Native application using CDK that defines a Serverless Event Driven application for interacting with Twitter and utilising Machine Learning / AI as a Service.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [bbc/sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based applications without the boilerplate
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
+
+## azure 
+
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
 ## babel 
 
@@ -498,6 +505,10 @@
 
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## devops 
+
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
 ## django 
 
@@ -1158,6 +1169,7 @@
 
 ## others 
 
+- [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Damn Vulnerable MCP Server
 - [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [louisescher/starlight-ion-theme](https://github.com/louisescher/starlight-ion-theme) - A sleek, modern theme for Starlight.
@@ -1613,6 +1625,7 @@
 
 ## security 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [gitleaks/gitleaks-action](https://github.com/gitleaks/gitleaks-action) - Protect your secrets using Gitleaks-Action
