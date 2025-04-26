@@ -1760,6 +1760,7 @@
 
 ## typescript 
 
+- [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 - [defenseunicorns/pepr](https://github.com/defenseunicorns/pepr) - :unicorn: Type safe K8s middleware for humans
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
