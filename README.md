@@ -156,6 +156,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [chinchang/cta.js](https://github.com/chinchang/cta.js) - Animate your 'action-to-effect' paths
 - [diafygi/webcrypto-examples](https://github.com/diafygi/webcrypto-examples) - Web Cryptography API Examples Demo: https://diafygi.github.io/webcrypto-examples/
+- [ideal-postcodes/postcodes.io](https://github.com/ideal-postcodes/postcodes.io) - UK postcode & geolocation API, serving up open data
 - [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
 - [epochjs/epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library.
 
@@ -490,6 +491,7 @@
 
 ## Python 
 
+- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Damn Vulnerable MCP Server
 - [mie-lab/trackintel](https://github.com/mie-lab/trackintel) - trackintel is a framework for spatio-temporal analysis of movement trajectory and mobility data.
 - [xoolive/traffic](https://github.com/xoolive/traffic) - A toolbox for processing and analysing air traffic data
@@ -717,7 +719,6 @@
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [nodecg/nodecg](https://github.com/nodecg/nodecg) - Create broadcast graphics using Node.js and a browser
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
-- [ideal-postcodes/postcodes.io](https://github.com/ideal-postcodes/postcodes.io) - UK postcode & geolocation API, serving up open data
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
