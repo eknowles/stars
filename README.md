@@ -581,7 +581,7 @@
 ## Scala 
 
 - [sonar-scala/sonar-scala](https://github.com/sonar-scala/sonar-scala) - A free and open-source SonarQube plugin for static code analysis of Scala projects.
-- [snowplow/snowplow](https://github.com/snowplow/snowplow) - The leader in Next-Generation Customer Data Infrastructure
+- [snowplow/snowplow](https://github.com/snowplow/snowplow) - The leader in Customer Data Infrastructure
 - [guardian/grid](https://github.com/guardian/grid) - The Guardian’s image management system
 
 ## Shell 
