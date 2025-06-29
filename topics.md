@@ -84,6 +84,7 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -796,6 +797,13 @@
 
 - [pmndrs/postprocessing](https://github.com/pmndrs/postprocessing) - A post processing library for three.js.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+
+## information-gathering 
+
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
+- [megadose/nqntnqnqmb](https://github.com/megadose/nqntnqnqmb) - Allows you to retrieve information on linkedin profiles, companies on linkedin and search on linkedin companies/persons
+- [twelvesec/gasmask](https://github.com/twelvesec/gasmask) - Information gathering tool - OSINT
+- [megadose/holehe-maltego](https://github.com/megadose/holehe-maltego) - Holehe transform for maltego
 
 ## ios 
 
