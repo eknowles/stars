@@ -594,7 +594,6 @@
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [robwierzbowski/grunt-build-control](https://github.com/robwierzbowski/grunt-build-control) - Version control your built code.
-- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
@@ -741,6 +740,7 @@
 
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [nicwest/vim-http](https://github.com/nicwest/vim-http) - simple vim plugin to make http requests from buffers
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [nicwest/vim-bnext](https://github.com/nicwest/vim-bnext) - a buffer paging plugin that rembers where you have been and where you are going.
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [nicwest/vim-numerals](https://github.com/nicwest/vim-numerals) - roman numeral calculator
