@@ -492,6 +492,7 @@
 
 ## Python 
 
+- [snstac/pytak](https://github.com/snstac/pytak) - PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.
 - [kraina-ai/overturemaestro](https://github.com/kraina-ai/overturemaestro) - An open-source tool for reading OvertureMaps data with multiprocessing and additional Quality-of-Life features
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Damn Vulnerable MCP Server
