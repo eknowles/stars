@@ -435,6 +435,7 @@
 
 ## Others 
 
+- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for structuring and managing complex projects using multiple AI agents. Implements a workflow with Manager and Implementation Agents, Memory Banks, and Handover Protocols, inspired by real
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [stephansturges/NANO](https://github.com/stephansturges/NANO) - Neural Autonomous Navigation Observer is a set of very small DNNs for drones to detect a few simple objects
