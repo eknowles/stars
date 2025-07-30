@@ -44,6 +44,7 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [XSLT](#xslt)
 
 ## C 
 
@@ -600,7 +601,7 @@
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [OvertureMaps/overture-tiles](https://github.com/OvertureMaps/overture-tiles) - create tiles from overture data
 - [oscarfonts/docker-geoserver](https://github.com/oscarfonts/docker-geoserver) - 
-- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
+- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [robwierzbowski/grunt-build-control](https://github.com/robwierzbowski/grunt-build-control) - Version control your built code.
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
@@ -623,6 +624,7 @@
 
 ## TypeScript 
 
+- [TypeFox/typir](https://github.com/TypeFox/typir) - Typir is an open source library for type checking in the web
 - [lukasbach/ink-form](https://github.com/lukasbach/ink-form) - Complex user-friendly form component for React Ink
 - [dfpc-coe/node-CoT](https://github.com/dfpc-coe/node-CoT) - Javascript Cursor-On-Target Library
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
@@ -760,6 +762,11 @@
 
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
+
+## XSLT 
+
+- [OpenC2SIM/OpenC2SIM.github.io](https://github.com/OpenC2SIM/OpenC2SIM.github.io) - OpenC2SIM
+- [mil-oss/MTFXML](https://github.com/mil-oss/MTFXML) - Collaborative Development for NATO and US Message Text Format Military Standards.
 
 
 ## License
