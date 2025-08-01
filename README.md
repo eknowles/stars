@@ -624,6 +624,7 @@
 
 ## TypeScript 
 
+- [vazco/uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema.
 - [TypeFox/typir](https://github.com/TypeFox/typir) - Typir is an open source library for type checking in the web
 - [lukasbach/ink-form](https://github.com/lukasbach/ink-form) - Complex user-friendly form component for React Ink
 - [dfpc-coe/node-CoT](https://github.com/dfpc-coe/node-CoT) - Javascript Cursor-On-Target Library
