@@ -569,7 +569,7 @@
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -763,6 +763,7 @@
 
 ## hacktoberfest 
 
+- [vazco/uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema.
 - [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - Framework that joins data models, schemas, code generation, and a task engine. Language and technology agnostic.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -844,7 +845,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A multi-protocol edge & service proxy. Seamlessly interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.
 
 ## java 
@@ -1268,7 +1269,7 @@
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Damn Vulnerable MCP Server
-- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [louisescher/starlight-ion-theme](https://github.com/louisescher/starlight-ion-theme) - A sleek, modern theme for Starlight.
 - [stephansturges/NANO](https://github.com/stephansturges/NANO) - Neural Autonomous Navigation Observer is a set of very small DNNs for drones to detect a few simple objects
@@ -1641,6 +1642,7 @@
 
 ## react 
 
+- [vazco/uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema.
 - [lukasbach/ink-form](https://github.com/lukasbach/ink-form) - Complex user-friendly form component for React Ink
 - [garden-co/jazz](https://github.com/garden-co/jazz) - Toolkit for backendless apps
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -1760,7 +1762,7 @@
 ## self-hosted 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 
@@ -1781,7 +1783,6 @@
 - [chj-web/fauna-gql-upload](https://github.com/chj-web/fauna-gql-upload) - A tool for managing your FaunaDB database using files. Create resources such as functions by simply creating a new file.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 
 ## shell 
 
