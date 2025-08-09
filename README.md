@@ -187,6 +187,7 @@
 
 ## JavaScript 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [rpbouman/huey](https://github.com/rpbouman/huey) - Light-weight, browser-based ROLAP pivot tables on top of DuckDB-WASM
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [gitleaks/gitleaks-action](https://github.com/gitleaks/gitleaks-action) - Protect your secrets using Gitleaks-Action
