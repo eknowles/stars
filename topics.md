@@ -136,6 +136,7 @@
 - [others](#others)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
+- [physics](#physics)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
@@ -1258,11 +1259,11 @@
 
 ## others 
 
+- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for structuring and managing complex projects using multiple AI agents. Implements a workflow with Manager and Implementation Agents, Memory Banks, and Handover Protocols, inspired by real
 - [OpenC2SIM/OpenC2SIM.github.io](https://github.com/OpenC2SIM/OpenC2SIM.github.io) - OpenC2SIM
 - [mil-oss/MTFXML](https://github.com/mil-oss/MTFXML) - Collaborative Development for NATO and US Message Text Format Military Standards.
 - [TypeFox/typir](https://github.com/TypeFox/typir) - Typir is an open source library for type checking in the web
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for structuring and managing complex projects using multiple AI agents. Implements a workflow with Manager and Implementation Agents, Memory Banks, and Handover Protocols, inspired by real
 - [dfpc-coe/node-CoT](https://github.com/dfpc-coe/node-CoT) - Javascript Cursor-On-Target Library
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
@@ -1545,6 +1546,10 @@
 ## parsing 
 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+## physics 
+
+- [WhitestormJS/whs.js](https://github.com/WhitestormJS/whs.js) - :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
 
 ## pixel-art 
 
