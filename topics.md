@@ -666,6 +666,7 @@
 
 ## font 
 
+- [Viglino/font-gis](https://github.com/Viglino/font-gis) - Icon font and SVG for use with GIS and spatial analysis tools
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
@@ -700,6 +701,7 @@
 
 ## gis 
 
+- [Viglino/font-gis](https://github.com/Viglino/font-gis) - Icon font and SVG for use with GIS and spatial analysis tools
 - [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
 - [w3reality/three-geo](https://github.com/w3reality/three-geo) - 3D geographic visualization library
 - [maplibre/maputnik](https://github.com/maplibre/maputnik) - An open source visual editor for the 'MapLibre Style Specification'
@@ -1266,6 +1268,7 @@
 
 ## others 
 
+- [watergis/maplibre-gl-terradraw](https://github.com/watergis/maplibre-gl-terradraw) - This plugin is to add controls to your Maplibre for drawing powered by Terra Draw library.
 - [dfpc-coe/node-CoT](https://github.com/dfpc-coe/node-CoT) - Javascript Cursor-On-Target Library
 - [NilsSlui/threejs-label-earth](https://github.com/NilsSlui/threejs-label-earth) - 
 - [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with AI assistants through structured multi-agent workflows. Addresses context window limitations and maintains project continuity across extended development
