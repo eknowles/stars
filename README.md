@@ -71,6 +71,7 @@
 
 ## CSS 
 
+- [Viglino/font-gis](https://github.com/Viglino/font-gis) - Icon font and SVG for use with GIS and spatial analysis tools
 - [azavea/open-data-standards](https://github.com/azavea/open-data-standards) - A living document of existing open data standards and proposed new standards
 - [mike-goodwin/owasp-threat-dragon-desktop](https://github.com/mike-goodwin/owasp-threat-dragon-desktop) - An installable desktop variant of OWASP Threat Dragon
 - [24ways/frontend](https://github.com/24ways/frontend) - Front-end component library for 24 ways. (2013-2019)
@@ -627,6 +628,7 @@
 
 ## TypeScript 
 
+- [watergis/maplibre-gl-terradraw](https://github.com/watergis/maplibre-gl-terradraw) - This plugin is to add controls to your Maplibre for drawing powered by Terra Draw library.
 - [dfpc-coe/node-CoT](https://github.com/dfpc-coe/node-CoT) - Javascript Cursor-On-Target Library
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [vazco/uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema.
