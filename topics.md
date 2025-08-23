@@ -1245,7 +1245,7 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [kraina-ai/overturemaestro](https://github.com/kraina-ai/overturemaestro) - An open-source tool for reading OvertureMaps data with multiprocessing and additional Quality-of-Life features
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [openmobilityfoundation/mobility-data-specification](https://github.com/openmobilityfoundation/mobility-data-specification) - A data standard to enable right-of-way regulation, digital policy, geofencing, and two-way communication between mobility companies and public agencies worldwide.
+- [openmobilityfoundation/mobility-data-specification](https://github.com/openmobilityfoundation/mobility-data-specification) - A data specification to enable right-of-way regulation, digital policy, geofencing, and two-way communication between mobility companies and public agencies worldwide.
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [wulkano/getkap.co](https://github.com/wulkano/getkap.co) - Website for Kap
