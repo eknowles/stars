@@ -57,6 +57,8 @@
 
 ## C++ 
 
+- [sourcemeta/jsonbinpack](https://github.com/sourcemeta/jsonbinpack) - A binary JSON serialization format based on JSON Schema 2020-12 with a strong focus on space-efficiency
+- [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [sandialabs/tracktable](https://github.com/sandialabs/tracktable) - Tracktable: moving object trajectory analysis in C++ and Python
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 - [movetk/movetk](https://github.com/movetk/movetk) - MoveTK is a library for computational movement analysis written in C++.
