@@ -192,6 +192,7 @@
 
 ## JavaScript 
 
+- [spatialillusions/milstandard-e](https://github.com/spatialillusions/milstandard-e) - 
 - [spatialillusions/geographiclib-mgrs](https://github.com/spatialillusions/geographiclib-mgrs) - 
 - [spatialillusions/maplibre-tilepackage-protocol](https://github.com/spatialillusions/maplibre-tilepackage-protocol) - 
 - [NilsSlui/threejs-label-earth](https://github.com/NilsSlui/threejs-label-earth) - 
