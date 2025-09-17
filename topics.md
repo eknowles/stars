@@ -1279,6 +1279,7 @@
 
 ## others 
 
+- [spatialillusions/milstandard-e](https://github.com/spatialillusions/milstandard-e) - 
 - [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - 
 - [spatialillusions/geographiclib-mgrs](https://github.com/spatialillusions/geographiclib-mgrs) - 
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
