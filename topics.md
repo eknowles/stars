@@ -1291,6 +1291,7 @@
 
 ## others 
 
+- [apache/sedona-db](https://github.com/apache/sedona-db) - A single-node analytical database engine with geospatial as a first-class citizen
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [spatialillusions/milstandard-e](https://github.com/spatialillusions/milstandard-e) - 
 - [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - 
