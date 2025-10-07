@@ -509,6 +509,7 @@
 
 ## data-visualization 
 
+- [geoarrow/deck.gl-layers](https://github.com/geoarrow/deck.gl-layers) - deck.gl layers for rendering GeoArrow data
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
