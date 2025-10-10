@@ -516,6 +516,7 @@
 
 ## Python 
 
+- [richonguzman/LoRa_APRS_iGate](https://github.com/richonguzman/LoRa_APRS_iGate) - LoRa APRS iGATE for ESP32 Based Board with Rx + Tx capabilities
 - [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - 
 - [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with AI assistants through structured multi-agent workflows. Addresses context window limitations and maintains project continuity across extended development
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
