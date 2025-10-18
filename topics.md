@@ -830,11 +830,14 @@
 - [vazco/uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema.
 - [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - Framework that joins data models, schemas, code generation, and a task engine. Language and technology agnostic.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [brisa-build/brisa](https://github.com/brisa-build/brisa) - The Web Platform Framework.
+- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [rapideditor/temaki](https://github.com/rapideditor/temaki) - 🐡 An icon expansion pack for Maki
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -1377,7 +1380,6 @@
 - [eknowles/homebrew-tools](https://github.com/eknowles/homebrew-tools) - 
 - [yetzt/tileblaster](https://github.com/yetzt/tileblaster) - tileblaster is a map tile caching (and optimizing) proxy, designed to run with nginx.
 - [visgl/flowmap.gl](https://github.com/visgl/flowmap.gl) - Flow map drawing layer for deck.gl
-- [rapideditor/temaki](https://github.com/rapideditor/temaki) - 🐡 An icon expansion pack for Maki
 - [OvertureMaps/overture-tiles](https://github.com/OvertureMaps/overture-tiles) - create tiles from overture data
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
