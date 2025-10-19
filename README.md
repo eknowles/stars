@@ -31,6 +31,7 @@
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PlantUML](#plantuml)
+- [PowerShell](#powershell)
 - [Prolog](#prolog)
 - [Protocol Buffer](#protocol-buffer)
 - [Python](#python)
@@ -506,6 +507,10 @@
 
 - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 
+## PowerShell 
+
+- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with AI assistants through structured multi-agent workflows. Addresses context window limitations and maintains project continuity across extended development
+
 ## Prolog 
 
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
@@ -518,7 +523,6 @@
 
 - [richonguzman/LoRa_APRS_iGate](https://github.com/richonguzman/LoRa_APRS_iGate) - LoRa APRS iGATE for ESP32 Based Board with Rx + Tx capabilities
 - [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - 
-- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with AI assistants through structured multi-agent workflows. Addresses context window limitations and maintains project continuity across extended development
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [snstac/pytak](https://github.com/snstac/pytak) - PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.
 - [kraina-ai/overturemaestro](https://github.com/kraina-ai/overturemaestro) - An open-source tool for reading OvertureMaps data with multiprocessing and additional Quality-of-Life features
