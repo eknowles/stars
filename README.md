@@ -648,6 +648,7 @@
 
 ## TypeScript 
 
+- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [geoarrow/deck.gl-layers](https://github.com/geoarrow/deck.gl-layers) - deck.gl layers for rendering GeoArrow data
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
