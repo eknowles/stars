@@ -113,6 +113,7 @@
 
 ## Go 
 
+- [la5nta/pat](https://github.com/la5nta/pat) - A cross-platform Winlink client written in Go
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
@@ -194,6 +195,7 @@
 
 ## JavaScript 
 
+- [hyparam/hyparquet](https://github.com/hyparam/hyparquet) - parquet file parser for javascript
 - [spatialillusions/milstandard-e](https://github.com/spatialillusions/milstandard-e) - 
 - [spatialillusions/geographiclib-mgrs](https://github.com/spatialillusions/geographiclib-mgrs) - 
 - [spatialillusions/maplibre-tilepackage-protocol](https://github.com/spatialillusions/maplibre-tilepackage-protocol) - 
@@ -644,6 +646,7 @@
 
 ## TypeScript 
 
+- [hyparam/hightable](https://github.com/hyparam/hightable) - A dynamic windowed scrolling table component for react
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [geoarrow/deck.gl-layers](https://github.com/geoarrow/deck.gl-layers) - deck.gl layers for rendering GeoArrow data
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
