@@ -460,7 +460,7 @@
 - [dstl/IES4](https://github.com/dstl/IES4) - The Information Exchange Standard (IES) is a standard for information exchange developed within UK Government.
 - [pedroosz/elysia-kickstart](https://github.com/pedroosz/elysia-kickstart) - a kickstart project for using bun + elysia + drizzle and postgresql
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
-- [openmobilityfoundation/mobility-data-specification](https://github.com/openmobilityfoundation/mobility-data-specification) - A data specification to enable right-of-way regulation, digital policy, geofencing, and two-way communication between mobility companies and public agencies worldwide.
+- [openmobilityfoundation/mobility-data-specification](https://github.com/openmobilityfoundation/mobility-data-specification) - A data specification to enable right-of-way regulation, digital policy, geofencing, and two-way communication between mobility companies and public agencies worldwide for any regulated, shared vehicle
 - [HowToFind-bot/osint-tools](https://github.com/HowToFind-bot/osint-tools) - OSINT open-source tools catalog
 - [Venafi/blueprint-securesoftwarepipeline](https://github.com/Venafi/blueprint-securesoftwarepipeline) - For engineers and security teams driving fast and secure software supply chains
 - [fauna-labs/awesome-fauna](https://github.com/fauna-labs/awesome-fauna) - Curated list of FaunaDB resources
@@ -671,7 +671,7 @@
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [defenseunicorns/pepr](https://github.com/defenseunicorns/pepr) - :unicorn: Type safe K8s middleware for humans
 - [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
