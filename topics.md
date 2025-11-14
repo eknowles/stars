@@ -1347,6 +1347,7 @@
 
 ## others 
 
+- [citypaul/.dotfiles](https://github.com/citypaul/.dotfiles) - My dotfiles
 - [la5nta/pat](https://github.com/la5nta/pat) - A cross-platform Winlink client written in Go
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [spatialillusions/milstandard-e](https://github.com/spatialillusions/milstandard-e) - 
