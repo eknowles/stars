@@ -1549,7 +1549,6 @@
 - [GDG-Ukraine/gdgregform](https://github.com/GDG-Ukraine/gdgregform) - [DEPRECATED] Contacts DB and registration forms admin UI
 - [Crown-Commercial-Service/digitalmarketplace-frontend-toolkit](https://github.com/Crown-Commercial-Service/digitalmarketplace-frontend-toolkit) - Front end toolkit for the Digital Marketplace
 - [Growmies/sequelize-json](https://github.com/Growmies/sequelize-json) - Field you can use to add automatical JSON stringifying/parsing to you sequelize models.
-- [hootsuite/grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists
 - [OfficeDev/office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Microsoft 365.
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
