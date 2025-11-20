@@ -342,7 +342,6 @@
 - [GDG-Ukraine/gdgregform](https://github.com/GDG-Ukraine/gdgregform) - [DEPRECATED] Contacts DB and registration forms admin UI
 - [Crown-Commercial-Service/digitalmarketplace-frontend-toolkit](https://github.com/Crown-Commercial-Service/digitalmarketplace-frontend-toolkit) - Front end toolkit for the Digital Marketplace
 - [Growmies/sequelize-json](https://github.com/Growmies/sequelize-json) - Field you can use to add automatical JSON stringifying/parsing to you sequelize models.
-- [hootsuite/grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [sdesalas/trifleJS](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer
 - [jorgebucaran/twist](https://github.com/jorgebucaran/twist) - Declarative JavaScript Testing
