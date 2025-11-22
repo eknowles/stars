@@ -1470,7 +1470,7 @@
 - [glycerine/golang-thrift-minimal-example](https://github.com/glycerine/golang-thrift-minimal-example) - the apache thrift starter tutorial for golang, as a standalone repo
 - [urrri/ng-md-theme-loader](https://github.com/urrri/ng-md-theme-loader) - Adds your AngularJS Material custom theme css into your webpack Javascript Bundle
 - [peter-dickinson-books/peterdickinson.com](https://github.com/peter-dickinson-books/peterdickinson.com) - 
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [rubenv/angular-debounce](https://github.com/rubenv/angular-debounce) - Tiny debouncing function for Angular.JS.
 - [eknowles/adapt-mock](https://github.com/eknowles/adapt-mock) - :zap::cyclone: Rapid prototype existing HTML/CSS
 - [nicwest/kacl](https://github.com/nicwest/kacl) - Command line utility for maintaining a changelog in the Keep a Changelog format
