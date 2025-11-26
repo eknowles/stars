@@ -86,6 +86,7 @@
 - [golang](#golang)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -816,6 +817,13 @@
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
+## gui 
+
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
+- [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
+- [homebridge/homebridge-config-ui-x](https://github.com/homebridge/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
+
 ## hackathon 
 
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -1390,7 +1398,6 @@
 - [yetzt/tileblaster](https://github.com/yetzt/tileblaster) - tileblaster is a map tile caching (and optimizing) proxy, designed to run with nginx.
 - [visgl/flowmap.gl](https://github.com/visgl/flowmap.gl) - Flow map drawing layer for deck.gl
 - [OvertureMaps/overture-tiles](https://github.com/OvertureMaps/overture-tiles) - create tiles from overture data
-- [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [DRFR0ST/bun-bagel](https://github.com/DRFR0ST/bun-bagel) - 🥯 The Bun fetch mocker with a hole lot of flavor.
