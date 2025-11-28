@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -212,6 +213,10 @@
 
 - [nytimes/three-loader-3dtiles](https://github.com/nytimes/three-loader-3dtiles) - This is a Three.js loader module for handling OGC 3D Tiles, created by Cesium. It currently supports the two main formats, Batched 3D Model (b3dm) - based on glTF Point cloud.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
+
+## agent 
+
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 
 ## ai 
 
@@ -481,6 +486,7 @@
 
 ## cpp 
 
+- [pthom/imgui_bundle](https://github.com/pthom/imgui_bundle) - From expressive code to powerful GUIs in no time: a fast, feature-rich, cross-platform toolkit for C++ & Python.
 - [sandialabs/tracktable](https://github.com/sandialabs/tracktable) - Tracktable: moving object trajectory analysis in C++ and Python
 - [movetk/movetk](https://github.com/movetk/movetk) - MoveTK is a library for computational movement analysis written in C++.
 
@@ -1059,6 +1065,7 @@
 
 ## jupyter-notebook 
 
+- [pthom/imgui_bundle](https://github.com/pthom/imgui_bundle) - From expressive code to powerful GUIs in no time: a fast, feature-rich, cross-platform toolkit for C++ & Python.
 - [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
@@ -1766,6 +1773,7 @@
 
 ## python3 
 
+- [pthom/imgui_bundle](https://github.com/pthom/imgui_bundle) - From expressive code to powerful GUIs in no time: a fast, feature-rich, cross-platform toolkit for C++ & Python.
 - [mtllr/cookiecutter-dagster-docker-compose](https://github.com/mtllr/cookiecutter-dagster-docker-compose) - cookiecutter to create docker composable dagster development environments
 
 ## pytorch 
