@@ -28,7 +28,6 @@
 - [OpenEdge ABL](#openedge-abl)
 - [Others](#others)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PlantUML](#plantuml)
 - [Prolog](#prolog)
@@ -495,10 +494,6 @@
 - [entomb/slim-json-api](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's
 - [bobdia/tumblr-framework](https://github.com/bobdia/tumblr-framework) - A PHP-based framework for making Tumblr themes.
 
-## PLpgSQL 
-
-- [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
-
 ## Perl 
 
 - [ZoneMinder/zmeventnotification](https://github.com/ZoneMinder/zmeventnotification) - Machine Learning powered Secure Websocket & MQTT based ZoneMinder event notification server
@@ -659,6 +654,7 @@
 - [vazco/uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema.
 - [TypeFox/typir](https://github.com/TypeFox/typir) - Typir is an open source library for type checking in the web
 - [lukasbach/ink-form](https://github.com/lukasbach/ink-form) - Complex user-friendly form component for React Ink
+- [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
