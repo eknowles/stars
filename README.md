@@ -642,6 +642,7 @@
 
 ## TypeScript 
 
+- [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates
 - [hyparam/hightable](https://github.com/hyparam/hightable) - A dynamic windowed scrolling table component for react
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [geoarrow/deck.gl-layers](https://github.com/geoarrow/deck.gl-layers) - deck.gl layers for rendering GeoArrow data
