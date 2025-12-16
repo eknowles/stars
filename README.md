@@ -514,7 +514,7 @@
 
 - [pthom/imgui_bundle](https://github.com/pthom/imgui_bundle) - From expressive code to powerful GUIs in no time: a fast, feature-rich, cross-platform toolkit for C++ & Python.
 - [richonguzman/LoRa_APRS_iGate](https://github.com/richonguzman/LoRa_APRS_iGate) - LoRa APRS iGATE for ESP32 Based Board with Rx + Tx capabilities
-- [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - 
+- [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - GlobalBuildingAtlas: an open global and complete dataset of building polygons, heights and LoD1 3D models
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [snstac/pytak](https://github.com/snstac/pytak) - PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.
 - [kraina-ai/overturemaestro](https://github.com/kraina-ai/overturemaestro) - An open-source tool for reading OvertureMaps data with multiprocessing and additional Quality-of-Life features
@@ -681,6 +681,7 @@
 - [brisa-build/brisa](https://github.com/brisa-build/brisa) - The Web Platform Framework.
 - [torokmark/design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) - :triangular_ruler: Design pattern implementations in TypeScript
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [visgl/flowmap.gl](https://github.com/visgl/flowmap.gl) - Flow map drawing layer for deck.gl
 - [rapideditor/temaki](https://github.com/rapideditor/temaki) - 🐡 An icon expansion pack for Maki
@@ -788,7 +789,6 @@
 
 ## Vue 
 
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 
 ## XSLT 
