@@ -1395,7 +1395,7 @@
 - [la5nta/pat](https://github.com/la5nta/pat) - A cross-platform Winlink client written in Go
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [spatialillusions/milstandard-e](https://github.com/spatialillusions/milstandard-e) - 
-- [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - 
+- [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - GlobalBuildingAtlas: an open global and complete dataset of building polygons, heights and LoD1 3D models
 - [spatialillusions/geographiclib-mgrs](https://github.com/spatialillusions/geographiclib-mgrs) - 
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
 - [spatialillusions/maplibre-tilepackage-protocol](https://github.com/spatialillusions/maplibre-tilepackage-protocol) - 
