@@ -385,6 +385,7 @@
 - [allaud/quick-ng-repeat](https://github.com/allaud/quick-ng-repeat) - A much more quicker replacement for AngularJS ng-repeat directive
 - [kennethlynne/generator-angular-xl](https://github.com/kennethlynne/generator-angular-xl) - An opinionated kickstarter for your next large scale AngularJS application
 - [Dica-Developer/generator-node-webkit](https://github.com/Dica-Developer/generator-node-webkit) - Yeoman generator for nwjs applications
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [angular/material](https://github.com/angular/material) - Material design for AngularJS
 - [mikeemoo/jsgo](https://github.com/mikeemoo/jsgo) - A javascript library for reading CS:GO demo files
@@ -770,7 +771,6 @@
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [dalelotts/angular-bootstrap-datetimepicker](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Twitter Bootstrap
 - [esvit/ng-table](https://github.com/esvit/ng-table) - Simple table with sorting and filtering on AngularJS
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [nodecg/nodecg](https://github.com/nodecg/nodecg) - Create broadcast graphics using Node.js and a browser
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
