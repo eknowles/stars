@@ -643,6 +643,9 @@
 
 ## TypeScript 
 
+- [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
+- [eknowles/roulette-ts](https://github.com/eknowles/roulette-ts) - A 3D roulette game build with three.js and TypeScript.
+- [playcanvas/react](https://github.com/playcanvas/react) - Build 3D apps with React
 - [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates
 - [hyparam/hightable](https://github.com/hyparam/hightable) - A dynamic windowed scrolling table component for react
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
