@@ -126,6 +126,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [in-toto/witness](https://github.com/in-toto/witness) - Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
@@ -615,7 +616,6 @@
 - [citypaul/.dotfiles](https://github.com/citypaul/.dotfiles) - My dotfiles
 - [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
 - [nh2/internal-contstrained-pki](https://github.com/nh2/internal-contstrained-pki) - Safely shareable TLS root CA for .internal networks using Name Constraints
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [OvertureMaps/overture-tiles](https://github.com/OvertureMaps/overture-tiles) - create tiles from overture data
 - [oscarfonts/docker-geoserver](https://github.com/oscarfonts/docker-geoserver) - 
@@ -675,7 +675,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [defenseunicorns/pepr](https://github.com/defenseunicorns/pepr) - :unicorn: Type safe K8s middleware for humans
 - [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
