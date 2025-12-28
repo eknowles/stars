@@ -120,7 +120,7 @@
 - [kubean-io/kubean](https://github.com/kubean-io/kubean) - :seedling: Product ready cluster lifecycle management toolchains based on kubespray and other cluster LCM engine.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - Framework that joins data models, schemas, code generation, and a task engine. Language and technology agnostic.
+- [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - Framework that joins deterministic data models, schemas, code generation, and a task engine with and agentic system and vscode extension.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -643,6 +643,7 @@
 
 ## TypeScript 
 
+- [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor
 - [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
 - [eknowles/roulette-ts](https://github.com/eknowles/roulette-ts) - A 3D roulette game build with three.js and TypeScript.
 - [playcanvas/react](https://github.com/playcanvas/react) - Build 3D apps with React
