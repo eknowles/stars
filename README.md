@@ -11,7 +11,6 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
-- [Dart](#dart)
 - [EJS](#ejs)
 - [Elixir](#elixir)
 - [Go](#go)
@@ -98,10 +97,6 @@
 - [guideguide/grid-notation](https://github.com/guideguide/grid-notation) - A human friendly(ish), written grid language
 - [jnordberg/wintersmith](https://github.com/jnordberg/wintersmith) - A flexible static site generator
 
-## Dart 
-
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
 ## EJS 
 
 - [mapbox/mbview](https://github.com/mapbox/mbview) - View mbtiles locally
@@ -120,10 +115,11 @@
 - [kubean-io/kubean](https://github.com/kubean-io/kubean) - :seedling: Product ready cluster lifecycle management toolchains based on kubespray and other cluster LCM engine.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - Framework that joins deterministic data models, schemas, code generation, and a task engine with and agentic system and vscode extension.
+- [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - A developer experience centered on CUE. Unifies schemas, data models, deterministic and agentic code generation, workflow and task engine, dagger powered environments, coding assistant, and vscode ext
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
@@ -160,6 +156,7 @@
 
 ## HTML 
 
+- [smittix/intercept](https://github.com/smittix/intercept) - 
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [vscode-elements/webview-playground](https://github.com/vscode-elements/webview-playground) - Handy web components for emulating the VSCode Webview environment.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
