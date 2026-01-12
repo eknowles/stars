@@ -672,7 +672,7 @@
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [defenseunicorns/pepr](https://github.com/defenseunicorns/pepr) - :unicorn: Type safe K8s middleware for humans
 - [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
