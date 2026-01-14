@@ -108,6 +108,7 @@
 
 ## Go 
 
+- [aviator-co/av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
 - [la5nta/pat](https://github.com/la5nta/pat) - A cross-platform Winlink client written in Go
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -349,9 +350,8 @@
 - [sebastian-meier/d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - A tool to create sketchy backgrounds, shapes and lines
 - [scholtzm/vapor](https://github.com/scholtzm/vapor) - ☁️ Lightweight Steam client framework for node.js
 - [Reportr/dashboard](https://github.com/Reportr/dashboard) - Your life's personal dashboard.
-- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
 - [hugeinc/styleguide](https://github.com/hugeinc/styleguide) - A tool to make creating and maintaining style guides easy.
-- [mauriciopoppe/greuler](https://github.com/mauriciopoppe/greuler) - Graph theory visualizations
+- [mauriciopoppe/greuler](https://github.com/mauriciopoppe/greuler) - A JS library to create animations of graphs (math structure)
 - [chjj/ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [dthree/vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for live Node apps.
 - [radiodan/bbc-services-api](https://github.com/radiodan/bbc-services-api) - A way for radiodan to access BBC Radio Services
@@ -642,6 +642,7 @@
 
 ## TypeScript 
 
+- [defenseunicorns/kubernetes-fluent-client](https://github.com/defenseunicorns/kubernetes-fluent-client) - :unicorn: A @kubernetes/client-node fluent API wrapper that leverages K8s Server Side Apply for use with https://pepr.dev
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor
 - [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
 - [eknowles/roulette-ts](https://github.com/eknowles/roulette-ts) - A 3D roulette game build with three.js and TypeScript.
@@ -771,6 +772,7 @@
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [bbc/sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based applications without the boilerplate
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [dalelotts/angular-bootstrap-datetimepicker](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Twitter Bootstrap
 - [esvit/ng-table](https://github.com/esvit/ng-table) - Simple table with sorting and filtering on AngularJS
