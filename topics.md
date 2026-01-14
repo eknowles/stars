@@ -809,6 +809,7 @@
 
 ## git 
 
+- [aviator-co/av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -817,6 +818,7 @@
 
 ## github 
 
+- [aviator-co/av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator
 - [gitleaks/gitleaks-action](https://github.com/gitleaks/gitleaks-action) - Protect your secrets using Gitleaks-Action
 
 ## go 
@@ -1415,6 +1417,7 @@
 
 ## others 
 
+- [defenseunicorns/kubernetes-fluent-client](https://github.com/defenseunicorns/kubernetes-fluent-client) - :unicorn: A @kubernetes/client-node fluent API wrapper that leverages K8s Server Side Apply for use with https://pepr.dev
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
 - [smittix/intercept](https://github.com/smittix/intercept) - 
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor
@@ -1632,7 +1635,7 @@
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 - [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
 - [hugeinc/styleguide](https://github.com/hugeinc/styleguide) - A tool to make creating and maintaining style guides easy.
-- [mauriciopoppe/greuler](https://github.com/mauriciopoppe/greuler) - Graph theory visualizations
+- [mauriciopoppe/greuler](https://github.com/mauriciopoppe/greuler) - A JS library to create animations of graphs (math structure)
 - [facebookarchive/generics](https://github.com/facebookarchive/generics) - 
 - [chjj/ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [dthree/vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for live Node apps.
