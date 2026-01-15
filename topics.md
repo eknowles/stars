@@ -1419,7 +1419,7 @@
 
 - [defenseunicorns/kubernetes-fluent-client](https://github.com/defenseunicorns/kubernetes-fluent-client) - :unicorn: A @kubernetes/client-node fluent API wrapper that leverages K8s Server Side Apply for use with https://pepr.dev
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
-- [smittix/intercept](https://github.com/smittix/intercept) - 
+- [smittix/intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor
 - [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates
 - [citypaul/.dotfiles](https://github.com/citypaul/.dotfiles) - My dotfiles
