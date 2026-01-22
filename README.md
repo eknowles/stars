@@ -13,7 +13,9 @@
 - [CoffeeScript](#coffeescript)
 - [EJS](#ejs)
 - [Elixir](#elixir)
+- [Gnuplot](#gnuplot)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Handlebars](#handlebars)
@@ -24,7 +26,6 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Objective-C](#objective-c)
-- [OpenEdge ABL](#openedge-abl)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -106,6 +107,10 @@
 
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
+## Gnuplot 
+
+- [quarcs-lab/data-open](https://github.com/quarcs-lab/data-open) - Public datasets
+
 ## Go 
 
 - [aviator-co/av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator
@@ -152,6 +157,10 @@
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+## Go Template 
+
+- [defenseunicorns/uds-common](https://github.com/defenseunicorns/uds-common) - Common framework for UDS Packages
 
 ## HCL 
 
@@ -444,10 +453,6 @@
 
 - [aaronpk/Overland-iOS](https://github.com/aaronpk/Overland-iOS) - 📌 GPS logger for iOS devices
 
-## OpenEdge ABL 
-
-- [quarcs-lab/data-open](https://github.com/quarcs-lab/data-open) - Public datasets
-
 ## Others 
 
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
@@ -627,7 +632,6 @@
 
 ## Smarty 
 
-- [defenseunicorns/uds-common](https://github.com/defenseunicorns/uds-common) - Common framework for UDS Packages
 - [justinthelaw/repository-template](https://github.com/justinthelaw/repository-template) - A repository template for testing developer workflows and practices
 - [terrestris/k8s-geoserver-helm](https://github.com/terrestris/k8s-geoserver-helm) - 
 
@@ -732,7 +736,7 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [pluralsight/classic-design-system](https://github.com/pluralsight/classic-design-system) - This library (classic) is officially in maintenance mode only. For the latest library, please see the TVA project (https://pluralsight.github.io/tva/).
