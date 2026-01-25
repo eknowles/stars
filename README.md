@@ -29,6 +29,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [Pkl](#pkl)
 - [PlantUML](#plantuml)
 - [Prolog](#prolog)
 - [Protocol Buffer](#protocol-buffer)
@@ -503,6 +504,10 @@
 ## Perl 
 
 - [ZoneMinder/zmeventnotification](https://github.com/ZoneMinder/zmeventnotification) - Machine Learning powered Secure Websocket & MQTT based ZoneMinder event notification server
+
+## Pkl 
+
+- [apple/pkl-pantry](https://github.com/apple/pkl-pantry) - Shared Pkl packages
 
 ## PlantUML 
 
