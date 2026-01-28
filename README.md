@@ -58,6 +58,9 @@
 
 ## C++ 
 
+- [m5stack/M5Cardputer](https://github.com/m5stack/M5Cardputer) - 
+- [Forairaaaaa/mooncake](https://github.com/Forairaaaaa/mooncake) - 适用于单片机的多 App 管理调度框架
+- [dl1bz/ESP32-IC705BT-PA](https://github.com/dl1bz/ESP32-IC705BT-PA) - PTT and/or automatic bandswitching a XIEGU-PA with ICOM IC-705 via Bluetooth using an ESP32 LILYGO TTGO T-Display v1.1
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [mapbox/polylabel](https://github.com/mapbox/polylabel) - A fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++)
 - [sourcemeta/jsonbinpack](https://github.com/sourcemeta/jsonbinpack) - A binary JSON serialization format based on JSON Schema 2020-12 with a strong focus on space-efficiency
