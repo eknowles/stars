@@ -181,6 +181,7 @@
 - [gerry-rohling/structurizr-parser](https://github.com/gerry-rohling/structurizr-parser) - Parses Structurizr DSL files to support workspace population, code validation and other uses
 - [peter-dickinson-books/peterdickinson.com](https://github.com/peter-dickinson-books/peterdickinson.com) - 
 - [sparklinlabs/resize-handle](https://github.com/sparklinlabs/resize-handle) - Robust resize handles / splitters for your HTML5 apps and websites
+- [zaggino/z-schema](https://github.com/zaggino/z-schema) - JSON Schema validator written in JavaScript for NodeJS and Browsers
 - [rprieto/supersamples](https://github.com/rprieto/supersamples) - Documentation and samples for your Node.js REST API
 - [jfriend00/docReady](https://github.com/jfriend00/docReady) - Plain javascript replacement for jQuery's .ready() so code can be scheduled to run when the document is ready
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
@@ -284,7 +285,6 @@
 - [npm/nopt](https://github.com/npm/nopt) - Node/npm Option Parsing
 - [velesin/jasmine-jquery](https://github.com/velesin/jasmine-jquery) - jQuery matchers and fixture loader for Jasmine framework
 - [GaryB432/generator-webpack-2-typescript](https://github.com/GaryB432/generator-webpack-2-typescript) - Yeoman generator for webpack 2 and typescript
-- [zaggino/z-schema](https://github.com/zaggino/z-schema) - JSON Schema validator written in JavaScript for NodeJS and Browsers
 - [lbovet/docson](https://github.com/lbovet/docson) - Documentation for your JSON types
 - [cloudflare/doca](https://github.com/cloudflare/doca) - A CLI tool that scaffolds API documentation based on JSON HyperSchemas.
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
@@ -461,6 +461,7 @@
 
 ## Others 
 
+- [IES-Org/ont-ies](https://github.com/IES-Org/ont-ies) - The Information Exchange Standard (IES) is a standard for information exchange developed within UK Government.
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [stephansturges/NANO](https://github.com/stephansturges/NANO) - Neural Autonomous Navigation Observer is a set of very small DNNs for drones to detect a few simple objects
