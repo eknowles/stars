@@ -483,6 +483,7 @@
 - [apache/lucene-solr](https://github.com/apache/lucene-solr) - Apache Lucene and Solr open-source search software
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [mgechev/angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - [Deprecated] Community-driven set of best practices and style guidelines for Angular 2 application development
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 - [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
@@ -617,7 +618,6 @@
 
 ## SCSS 
 
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [OfficeDev/office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Microsoft 365.
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 
