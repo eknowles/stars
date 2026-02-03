@@ -181,7 +181,6 @@
 - [gerry-rohling/structurizr-parser](https://github.com/gerry-rohling/structurizr-parser) - Parses Structurizr DSL files to support workspace population, code validation and other uses
 - [peter-dickinson-books/peterdickinson.com](https://github.com/peter-dickinson-books/peterdickinson.com) - 
 - [sparklinlabs/resize-handle](https://github.com/sparklinlabs/resize-handle) - Robust resize handles / splitters for your HTML5 apps and websites
-- [zaggino/z-schema](https://github.com/zaggino/z-schema) - JSON Schema validator written in JavaScript for NodeJS and Browsers
 - [rprieto/supersamples](https://github.com/rprieto/supersamples) - Documentation and samples for your Node.js REST API
 - [jfriend00/docReady](https://github.com/jfriend00/docReady) - Plain javascript replacement for jQuery's .ready() so code can be scheduled to run when the document is ready
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
@@ -768,6 +767,7 @@
 - [Grsmto/simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [zaggino/z-schema](https://github.com/zaggino/z-schema) - JSON Schema validator written in JavaScript for NodeJS and Browsers
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [angular/flex-layout](https://github.com/angular/flex-layout) - Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API
 - [wellcomecollection/wellcomecollection.org](https://github.com/wellcomecollection/wellcomecollection.org) - 🪟 Wellcome Collection's website and services that support it
