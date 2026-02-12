@@ -553,7 +553,7 @@
 - [kraina-ai/quackosm](https://github.com/kraina-ai/quackosm) - QuackOSM: an open-source Python and CLI tool for reading OpenStreetMap PBF files using DuckDB
 - [mtllr/cookiecutter-dagster-docker-compose](https://github.com/mtllr/cookiecutter-dagster-docker-compose) - cookiecutter to create docker composable dagster development environments
 - [dagster-io/dagster-open-platform](https://github.com/dagster-io/dagster-open-platform) - Dagster Labs' open-source data platform, built with Dagster.
-- [developmentseed/lonboard](https://github.com/developmentseed/lonboard) - A Python library for fast, interactive geospatial vector data visualization in Jupyter.
+- [developmentseed/lonboard](https://github.com/developmentseed/lonboard) - A Python library for fast, interactive geospatial data visualization in Jupyter.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
 - [andrewm4894/anomstack](https://github.com/andrewm4894/anomstack) - Anomstack - Painless open source anomaly detection for your metrics 📈📉🚀
