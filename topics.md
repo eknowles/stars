@@ -1431,6 +1431,7 @@
 
 ## others 
 
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [IES-Org/ont-ies](https://github.com/IES-Org/ont-ies) - The Information Exchange Standard (IES) is a standard for information exchange developed within UK Government.
 - [m5stack/M5Cardputer](https://github.com/m5stack/M5Cardputer) - 
 - [Forairaaaaa/mooncake](https://github.com/Forairaaaaa/mooncake) - 适用于单片机的多 App 管理调度框架
