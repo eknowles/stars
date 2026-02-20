@@ -306,6 +306,7 @@
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 ## arduino 
 
@@ -790,6 +791,7 @@
 - [sierra-library/sierra](https://github.com/sierra-library/sierra) - Sierra SCSS library
 - [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -1110,6 +1112,7 @@
 - [sourcemeta/jsonbinpack](https://github.com/sourcemeta/jsonbinpack) - A binary JSON serialization format based on JSON Schema 2020-12 with a strong focus on space-efficiency
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 ## jupyter-notebook 
 
@@ -1688,7 +1691,6 @@
 - [eknowles/angular-color-this](https://github.com/eknowles/angular-color-this) - :abcd::rainbow: Angular module for generating colors from strings
 - [bbc/redux-client-ruby](https://github.com/bbc/redux-client-ruby) - Ruby client for BBC Redux
 - [bugdone/headshotbox](https://github.com/bugdone/headshotbox) - 
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [entomb/slim-json-api](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's
 - [sindresorhus/jshint-stylish](https://github.com/sindresorhus/jshint-stylish) - Stylish reporter for JSHint
 - [almonk/Bind](https://github.com/almonk/Bind) - A design tool for interfaces
