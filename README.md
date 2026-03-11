@@ -118,6 +118,8 @@
 
 ## Go 
 
+- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
+- [rancher/rke2](https://github.com/rancher/rke2) - 
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -535,6 +537,8 @@
 
 ## Python 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [smittix/intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
 - [pthom/imgui_bundle](https://github.com/pthom/imgui_bundle) - From expressive code to powerful GUIs in no time: a fast, feature-rich, cross-platform toolkit for C++ & Python.
 - [richonguzman/LoRa_APRS_iGate](https://github.com/richonguzman/LoRa_APRS_iGate) - LoRa APRS iGATE for ESP32 Based Board with Rx + Tx capabilities
@@ -665,6 +669,7 @@
 
 ## TypeScript 
 
+- [LukasNiessen/ArchUnitTS](https://github.com/LukasNiessen/ArchUnitTS) - ArchUnitTS is an architecture testing library. Specify and ensure architecture rules in your TypeScript app. Easy setup and pipeline integration.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [grafana/scenes](https://github.com/grafana/scenes) - Build Grafana dashboards directly in your Grafana app plugins.
 - [RocketCommunicationsInc/astro](https://github.com/RocketCommunicationsInc/astro) - Astro UXDS is a collection of guidelines, patterns and components for designing space-based user interface applications.
