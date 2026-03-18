@@ -1484,7 +1484,7 @@
 - [rancher/rke2](https://github.com/rancher/rke2) - 
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [IES-Org/ont-ies](https://github.com/IES-Org/ont-ies) - The Information Exchange Standard (IES) is a standard for information exchange developed within UK Government.
 - [m5stack/M5Cardputer](https://github.com/m5stack/M5Cardputer) - 
 - [Forairaaaaa/mooncake](https://github.com/Forairaaaaa/mooncake) - 适用于单片机的多 App 管理调度框架
