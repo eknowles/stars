@@ -38,6 +38,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SVG](#svg)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
@@ -640,6 +641,10 @@
 - [OfficeDev/office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Microsoft 365.
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 
+## SVG 
+
+- [rapideditor/temaki](https://github.com/rapideditor/temaki) - 🐡 An icon expansion pack for Maki
+
 ## Scala 
 
 - [sonar-scala/sonar-scala](https://github.com/sonar-scala/sonar-scala) - A free and open-source SonarQube plugin for static code analysis of Scala projects.
@@ -726,7 +731,6 @@
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [visgl/flowmap.gl](https://github.com/visgl/flowmap.gl) - Flow map drawing layer for deck.gl
-- [rapideditor/temaki](https://github.com/rapideditor/temaki) - 🐡 An icon expansion pack for Maki
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
