@@ -25,6 +25,7 @@
 - [Liquid](#liquid)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Nix](#nix)
 - [Nushell](#nushell)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -463,6 +464,10 @@
 
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [danduk82/helm-ogscloud](https://github.com/danduk82/helm-ogscloud) - helm chart to test the usage of helm-geoserver-cloud as chart dependency
+
+## Nix 
+
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 
 ## Nushell 
 
