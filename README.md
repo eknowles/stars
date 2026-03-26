@@ -684,6 +684,7 @@
 
 ## TypeScript 
 
+- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [e18e/cli](https://github.com/e18e/cli) - 
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [gepheum/skir](https://github.com/gepheum/skir) - A modern alternative to Protobuf
