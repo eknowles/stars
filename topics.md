@@ -1513,7 +1513,7 @@
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [watergis/maplibre-gl-terradraw](https://github.com/watergis/maplibre-gl-terradraw) - This plugin is to add controls to your Maplibre for drawing powered by Terra Draw library.
 - [NilsSlui/threejs-label-earth](https://github.com/NilsSlui/threejs-label-earth) - 
-- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with structured multi-agent workflows. Integrates to AI Assistants like Cursor, Claude Code, GitHub Copilot and more.
+- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with spec-driven multi-agent workflows.
 - [OpenC2SIM/OpenC2SIM.github.io](https://github.com/OpenC2SIM/OpenC2SIM.github.io) - OpenC2SIM
 - [mil-oss/MTFXML](https://github.com/mil-oss/MTFXML) - Collaborative Development for NATO and US Message Text Format Military Standards.
 - [TypeFox/typir](https://github.com/TypeFox/typir) - Typir is an open source library for type checking in the web
