@@ -516,7 +516,7 @@
 
 ## cpp 
 
-- [pthom/imgui_bundle](https://github.com/pthom/imgui_bundle) - From expressive code to powerful GUIs in no time: a fast, feature-rich, cross-platform toolkit for C++ & Python.
+- [pthom/imgui_bundle](https://github.com/pthom/imgui_bundle) - Interactive Python & C++ apps for desktop, mobile, and web - powered by Dear ImGui. Stop fighting GUI frameworks. Start building.
 - [sandialabs/tracktable](https://github.com/sandialabs/tracktable) - Tracktable: moving object trajectory analysis in C++ and Python
 - [movetk/movetk](https://github.com/movetk/movetk) - MoveTK is a library for computational movement analysis written in C++.
 
@@ -1141,7 +1141,7 @@
 
 ## jupyter-notebook 
 
-- [pthom/imgui_bundle](https://github.com/pthom/imgui_bundle) - From expressive code to powerful GUIs in no time: a fast, feature-rich, cross-platform toolkit for C++ & Python.
+- [pthom/imgui_bundle](https://github.com/pthom/imgui_bundle) - Interactive Python & C++ apps for desktop, mobile, and web - powered by Dear ImGui. Stop fighting GUI frameworks. Start building.
 - [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
@@ -1476,6 +1476,7 @@
 
 ## others 
 
+- [getodk/central](https://github.com/getodk/central) - ODK Central is a server that is easy to use, very fast, and stuffed with features that make data collection easier. Contribute and make the world a better place! ✨🗄✨
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [e18e/cli](https://github.com/e18e/cli) - 
 - [walkerke/freestiler](https://github.com/walkerke/freestiler) - A Rust-powered vector tile generator for R, Python, and DuckDB.
@@ -1904,7 +1905,7 @@
 
 ## python3 
 
-- [pthom/imgui_bundle](https://github.com/pthom/imgui_bundle) - From expressive code to powerful GUIs in no time: a fast, feature-rich, cross-platform toolkit for C++ & Python.
+- [pthom/imgui_bundle](https://github.com/pthom/imgui_bundle) - Interactive Python & C++ apps for desktop, mobile, and web - powered by Dear ImGui. Stop fighting GUI frameworks. Start building.
 - [mtllr/cookiecutter-dagster-docker-compose](https://github.com/mtllr/cookiecutter-dagster-docker-compose) - cookiecutter to create docker composable dagster development environments
 
 ## pytorch 
