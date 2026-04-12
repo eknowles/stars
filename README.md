@@ -210,6 +210,7 @@
 
 ## Java 
 
+- [telicent-oss/jena-fuseki-kafka](https://github.com/telicent-oss/jena-fuseki-kafka) - Apache Jena Fuseki extension module for receiving data over Apache Kafka topics.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [praszuk/josm-fastdriveway-plugin](https://github.com/praszuk/josm-fastdriveway-plugin) - FastDriveway plugin for JOSM editor.
 - [OvertureMaps/overture-tiles](https://github.com/OvertureMaps/overture-tiles) - Create PMTiles from Overture data
@@ -551,6 +552,7 @@
 
 ## Python 
 
+- [telicent-oss/ies-tool](https://github.com/telicent-oss/ies-tool) - A library for working with the IES data standard.
 - [morozsm/icom-lan](https://github.com/morozsm/icom-lan) - Python library for controlling Icom transceivers over LAN (UDP) — no wfview/hamlib required
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
