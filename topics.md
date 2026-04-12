@@ -1487,6 +1487,8 @@
 
 ## others 
 
+- [telicent-oss/jena-fuseki-kafka](https://github.com/telicent-oss/jena-fuseki-kafka) - Apache Jena Fuseki extension module for receiving data over Apache Kafka topics.
+- [telicent-oss/ies-tool](https://github.com/telicent-oss/ies-tool) - A library for working with the IES data standard.
 - [getodk/central](https://github.com/getodk/central) - ODK Central is a server that is easy to use, very fast, and stuffed with features that make data collection easier. Contribute and make the world a better place! ✨🗄✨
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [e18e/cli](https://github.com/e18e/cli) - 
