@@ -587,7 +587,7 @@
 ## data-visualization 
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [geoarrow/deck.gl-layers](https://github.com/geoarrow/deck.gl-layers) - deck.gl layers for rendering GeoArrow data
+- [geoarrow/deck.gl-geoarrow](https://github.com/geoarrow/deck.gl-geoarrow) - deck.gl layers for rendering GeoArrow data
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -1352,7 +1352,7 @@
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 
@@ -1466,7 +1466,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [openmobilityfoundation/mobility-data-specification](https://github.com/openmobilityfoundation/mobility-data-specification) - A data specification to enable right-of-way regulation, digital policy, geofencing, and two-way communication between mobility companies and public agencies worldwide for any regulated, shared vehicle
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [wulkano/getkap.co](https://github.com/wulkano/getkap.co) - Website for Kap
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code mo
@@ -1823,7 +1823,7 @@
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [pedroosz/elysia-kickstart](https://github.com/pedroosz/elysia-kickstart) - a kickstart project for using bun + elysia + drizzle and postgresql
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [hotosm/tasking-manager](https://github.com/hotosm/tasking-manager) - Tasking Manager - The tool to team up for mapping in OpenStreetMap
 - [maplibre/martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
@@ -2138,7 +2138,7 @@
 ## tailwindcss 
 
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 
 ## telegram 
@@ -2193,7 +2193,7 @@
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [TylorS/typed](https://github.com/TylorS/typed) - Web Applications with Effect-TS
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [chj-web/fauna-gql-upload](https://github.com/chj-web/fauna-gql-upload) - A tool for managing your FaunaDB database using files. Create resources such as functions by simply creating a new file.
 - [mink-org/mink](https://github.com/mink-org/mink) - mink is an interactive terminal application designed to give you an overview of whatever you want
