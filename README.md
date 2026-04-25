@@ -483,6 +483,7 @@
 
 ## Others 
 
+- [ps06756/Designing-Data-Intensive-Applications](https://github.com/ps06756/Designing-Data-Intensive-Applications) - Notes for the book "Designing Data Intensive Applications"
 - [smithy-lang/awesome-smithy](https://github.com/smithy-lang/awesome-smithy) - Awesome Smithy is a curated list of awesome build-tools, code-generators, examples, and other resources related to the Smithy IDL.
 - [IES-Org/ont-ies](https://github.com/IES-Org/ont-ies) - The Information Exchange Standard (IES) is a standard for information exchange developed within UK Government.
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
