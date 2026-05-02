@@ -1487,6 +1487,7 @@
 
 ## others 
 
+- [do-me/geospatial-atlas](https://github.com/do-me/geospatial-atlas) - Interactive visualization for large geospatial point datasets
 - [ps06756/Designing-Data-Intensive-Applications](https://github.com/ps06756/Designing-Data-Intensive-Applications) - Notes for the book "Designing Data Intensive Applications"
 - [telicent-oss/jena-fuseki-kafka](https://github.com/telicent-oss/jena-fuseki-kafka) - Apache Jena Fuseki extension module for receiving data over Apache Kafka topics.
 - [telicent-oss/ies-tool](https://github.com/telicent-oss/ies-tool) - A library for working with the IES data standard.
