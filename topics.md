@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -236,6 +237,13 @@
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
+
+## agents 
+
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+- [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+- [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - A developer experience centered on CUE. Unifies schemas, data models, deterministic and agentic code generation, workflow and task engine, dagger powered environments, coding assistant, and vscode ext
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 ## ai 
 
