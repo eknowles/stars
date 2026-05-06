@@ -1495,6 +1495,8 @@
 
 ## others 
 
+- [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem
+- [eknowles/angular-color-this](https://github.com/eknowles/angular-color-this) - :abcd::rainbow: Angular module for generating colors from strings
 - [do-me/geospatial-atlas](https://github.com/do-me/geospatial-atlas) - Interactive visualization for large geospatial point datasets
 - [ps06756/Designing-Data-Intensive-Applications](https://github.com/ps06756/Designing-Data-Intensive-Applications) - Notes for the book "Designing Data Intensive Applications"
 - [telicent-oss/jena-fuseki-kafka](https://github.com/telicent-oss/jena-fuseki-kafka) - Apache Jena Fuseki extension module for receiving data over Apache Kafka topics.
@@ -1504,7 +1506,7 @@
 - [e18e/cli](https://github.com/e18e/cli) - 
 - [walkerke/freestiler](https://github.com/walkerke/freestiler) - A Rust-powered vector tile generator for R, Python, and DuckDB.
 - [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
-- [morozsm/icom-lan](https://github.com/morozsm/icom-lan) - Python library for controlling Icom transceivers over LAN (UDP) — no wfview/hamlib required
+- [rigplane/rigplane-core](https://github.com/rigplane/rigplane-core) - Python library for controlling Icom transceivers over LAN (UDP) — no wfview/hamlib required
 - [gepheum/skir](https://github.com/gepheum/skir) - Like Protobuf, without the pain
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
@@ -1592,7 +1594,7 @@
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by p
 - [azmatt/chasing_your_tail](https://github.com/azmatt/chasing_your_tail) - Tool for using wireless signals to see if you're being followed.
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [tobinbradley/dirt-simple-postgis-http-api](https://github.com/tobinbradley/dirt-simple-postgis-http-api) - Dirt Simple PostGIS HTTP API
 - [mapbox/maki](https://github.com/mapbox/maki) - A POI Icon Set
 - [TileStache/TileStache](https://github.com/TileStache/TileStache) - A stylish alternative for caching your map tiles.
@@ -1752,7 +1754,6 @@
 - [btroia/basis-data-export](https://github.com/btroia/basis-data-export) - Utility that exports and saves your Basis B1 or Peak device's uploaded sensor data.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [eknowles/angular-color-this](https://github.com/eknowles/angular-color-this) - :abcd::rainbow: Angular module for generating colors from strings
 - [bbc/redux-client-ruby](https://github.com/bbc/redux-client-ruby) - Ruby client for BBC Redux
 - [bugdone/headshotbox](https://github.com/bugdone/headshotbox) - 
 - [entomb/slim-json-api](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's
