@@ -12,7 +12,6 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [EJS](#ejs)
-- [Elixir](#elixir)
 - [Gnuplot](#gnuplot)
 - [Go](#go)
 - [Go Template](#go-template)
@@ -112,10 +111,6 @@
 ## EJS 
 
 - [mapbox/mbview](https://github.com/mapbox/mbview) - View mbtiles locally
-
-## Elixir 
-
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 ## Gnuplot 
 
@@ -751,6 +746,7 @@
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
 - [readmeio/api](https://github.com/readmeio/api) - 🚀 Automatic SDK generation from an OpenAPI definition
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [DRFR0ST/bun-bagel](https://github.com/DRFR0ST/bun-bagel) - 🥯 The Bun fetch mocker with a hole lot of flavor.
 - [TylorS/typed](https://github.com/TylorS/typed) - Web Applications with Effect-TS
