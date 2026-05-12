@@ -686,9 +686,10 @@
 
 ## TypeScript 
 
+- [nktnet1/rt-stack](https://github.com/nktnet1/rt-stack) - Lightweight fullstack turborepo with modular components, shared configs, containerised deployments and 100% type-safety.
 - [do-me/geospatial-atlas](https://github.com/do-me/geospatial-atlas) - Interactive visualization for large geospatial point datasets
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
-- [e18e/cli](https://github.com/e18e/cli) - 
+- [e18e/cli](https://github.com/e18e/cli) - A powerful CLI for analyzing and optimizing your JS/TS projects.
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [gepheum/skir](https://github.com/gepheum/skir) - Like Protobuf, without the pain
 - [LukasNiessen/ArchUnitTS](https://github.com/LukasNiessen/ArchUnitTS) - ArchUnitTS is an architecture testing library. Specify and ensure architecture rules in your TypeScript app. Easy setup and pipeline integration.
