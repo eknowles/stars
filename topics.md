@@ -198,6 +198,7 @@
 - [sublime-text](#sublime-text)
 - [support](#support)
 - [swift](#swift)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -694,6 +695,7 @@
 
 ## docker 
 
+- [nktnet1/rt-stack](https://github.com/nktnet1/rt-stack) - Lightweight fullstack turborepo with modular components, shared configs, containerised deployments and 100% type-safety.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -1503,7 +1505,7 @@
 - [telicent-oss/ies-tool](https://github.com/telicent-oss/ies-tool) - A library for working with the IES data standard.
 - [getodk/central](https://github.com/getodk/central) - ODK Central is a server that is easy to use, very fast, and stuffed with features that make data collection easier. Contribute and make the world a better place! ✨🗄✨
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
-- [e18e/cli](https://github.com/e18e/cli) - 
+- [e18e/cli](https://github.com/e18e/cli) - A powerful CLI for analyzing and optimizing your JS/TS projects.
 - [walkerke/freestiler](https://github.com/walkerke/freestiler) - A Rust-powered vector tile generator for R, Python, and DuckDB.
 - [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
 - [rigplane/rigplane-core](https://github.com/rigplane/rigplane-core) - Python library for controlling Icom transceivers over LAN (UDP) — no wfview/hamlib required
@@ -1946,6 +1948,7 @@
 
 ## react 
 
+- [nktnet1/rt-stack](https://github.com/nktnet1/rt-stack) - Lightweight fullstack turborepo with modular components, shared configs, containerised deployments and 100% type-safety.
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
 - [eknowles/roulette-ts](https://github.com/eknowles/roulette-ts) - A 3D roulette game build with three.js and TypeScript.
@@ -2144,6 +2147,10 @@
 ## swift 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+
+## tailwind 
+
+- [nktnet1/rt-stack](https://github.com/nktnet1/rt-stack) - Lightweight fullstack turborepo with modular components, shared configs, containerised deployments and 100% type-safety.
 
 ## tailwindcss 
 
