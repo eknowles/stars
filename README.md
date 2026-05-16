@@ -688,6 +688,7 @@
 
 ## TypeScript 
 
+- [microsoft/beachball](https://github.com/microsoft/beachball) - The Sunniest Semantic Version Bumper
 - [mmkal/trpc-cli](https://github.com/mmkal/trpc-cli) - Turn a tRPC router into a type-safe, fully-functional, documented CLI
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [nktnet1/rt-stack](https://github.com/nktnet1/rt-stack) - Lightweight fullstack turborepo with modular components, shared configs, containerised deployments and 100% type-safety.
