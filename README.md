@@ -274,7 +274,7 @@
 - [wulkano/getkap.co](https://github.com/wulkano/getkap.co) - Website for Kap
 - [octokit/routes](https://github.com/octokit/routes) - machine-readable, always up-to-date GitHub REST API route specifications
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
-- [PatrickJS/PatrickJS-starter](https://github.com/PatrickJS/PatrickJS-starter) - MFE Starter
+- [PatrickJS/angular-webpack-starter](https://github.com/PatrickJS/angular-webpack-starter) - Angular Webpack Starter
 - [KleoPetroff/javascript-design-patterns](https://github.com/KleoPetroff/javascript-design-patterns) - :books: Educational list of Javascript Design Patterns
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [eknowles/react-reel](https://github.com/eknowles/react-reel) - Animate any number like a slot machine. *Update* As used on Reddit! Add some flare to your metrics.
