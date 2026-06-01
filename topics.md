@@ -1523,7 +1523,7 @@
 - [walkerke/freestiler](https://github.com/walkerke/freestiler) - A Rust-powered vector tile generator for R, Python, and DuckDB.
 - [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
 - [rigplane/rigplane-core](https://github.com/rigplane/rigplane-core) - Python library for controlling Icom transceivers over LAN (UDP) — no wfview/hamlib required
-- [gepheum/skir](https://github.com/gepheum/skir) - Schema language from the future
+- [gepheum/skir](https://github.com/gepheum/skir) - Protobuf reimagined for today
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [rancher/rke2](https://github.com/rancher/rke2) - 
