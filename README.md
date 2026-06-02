@@ -655,6 +655,7 @@
 
 ## SVG 
 
+- [cyberalien/line-md](https://github.com/cyberalien/line-md) - Animated icons. Multiple formats to choose from: SVG animations, SVG with CSS animations, SVG rendered frame by frame.
 - [rapideditor/temaki](https://github.com/rapideditor/temaki) - 🐡 An icon expansion pack for Maki
 
 ## Scala 
