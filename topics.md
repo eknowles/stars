@@ -1303,6 +1303,7 @@
 
 ## material-design 
 
+- [cyberalien/line-md](https://github.com/cyberalien/line-md) - Animated icons. Multiple formats to choose from: SVG animations, SVG with CSS animations, SVG rendered frame by frame.
 - [material-foundation/material-remixer-remote-web](https://github.com/material-foundation/material-remixer-remote-web) - A hosted remote controller for a Remixer target app.
 - [material-foundation/material-remixer-js](https://github.com/material-foundation/material-remixer-js) - Remixer for JavaScript. Live adjustment of app variables.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
