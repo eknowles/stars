@@ -155,6 +155,7 @@
 - [open-source](#open-source)
 - [openai](#openai)
 - [osint](#osint)
+- [osint-tools](#osint-tools)
 - [others](#others)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
@@ -731,6 +732,7 @@
 
 ## dotfiles 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 
 ## dotnet 
@@ -952,6 +954,7 @@
 
 ## hacktoberfest 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
@@ -1265,6 +1268,7 @@
 
 ## lua 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 
 ## mac 
@@ -1364,6 +1368,7 @@
 
 ## neovim 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 
 ## nestjs 
@@ -1485,6 +1490,7 @@
 
 ## open-source 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -1508,6 +1514,12 @@
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [megadose/nqntnqnqmb](https://github.com/megadose/nqntnqnqmb) - Allows you to retrieve information on linkedin profiles, companies on linkedin and search on linkedin companies/persons
 - [twelvesec/gasmask](https://github.com/twelvesec/gasmask) - Information gathering tool - OSINT
+- [megadose/holehe-maltego](https://github.com/megadose/holehe-maltego) - Holehe transform for maltego
+- [HowToFind-bot/osint-tools](https://github.com/HowToFind-bot/osint-tools) - OSINT open-source tools catalog
+
+## osint-tools 
+
+- [megadose/nqntnqnqmb](https://github.com/megadose/nqntnqnqmb) - Allows you to retrieve information on linkedin profiles, companies on linkedin and search on linkedin companies/persons
 - [megadose/holehe-maltego](https://github.com/megadose/holehe-maltego) - Holehe transform for maltego
 - [HowToFind-bot/osint-tools](https://github.com/HowToFind-bot/osint-tools) - OSINT open-source tools catalog
 
@@ -2294,6 +2306,7 @@
 
 ## vim 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [nicwest/vim-http](https://github.com/nicwest/vim-http) - simple vim plugin to make http requests from buffers
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
