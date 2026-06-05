@@ -22,6 +22,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Liquid](#liquid)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nix](#nix)
@@ -456,6 +457,10 @@
 ## Liquid 
 
 - [roblabs/xyz-raster-sources](https://github.com/roblabs/xyz-raster-sources) - A collection of `xyz` raster sources for use in MapKit, QGIS, Mapbox/MapLibre Styles and various web mapping tools.
+
+## Lua 
+
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 
 ## MDX 
 
