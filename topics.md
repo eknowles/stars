@@ -1524,6 +1524,7 @@
 
 ## others 
 
+- [Effect-TS/skills](https://github.com/Effect-TS/skills) - 
 - [tobilg/latlng](https://github.com/tobilg/latlng) - Open Source geospatial object engine written in Rust
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem
