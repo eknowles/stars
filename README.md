@@ -68,7 +68,6 @@
 - [Forairaaaaa/mooncake](https://github.com/Forairaaaaa/mooncake) - 适用于单片机的多 App 管理调度框架
 - [dl1bz/ESP32-IC705BT-PA](https://github.com/dl1bz/ESP32-IC705BT-PA) - PTT and/or automatic bandswitching a XIEGU-PA with ICOM IC-705 via Bluetooth using an ESP32 LILYGO TTGO T-Display v1.1
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [mapbox/polylabel](https://github.com/mapbox/polylabel) - A fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++)
 - [sourcemeta/jsonbinpack](https://github.com/sourcemeta/jsonbinpack) - A binary JSON serialization format based on JSON Schema 2020-12 with a strong focus on space-efficiency
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [sandialabs/tracktable](https://github.com/sandialabs/tracktable) - Tracktable: moving object trajectory analysis in C++ and Python
@@ -188,7 +187,6 @@
 
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [vscode-elements/webview-playground](https://github.com/vscode-elements/webview-playground) - Handy web components for emulating the VSCode Webview environment.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [gerry-rohling/structurizr-parser](https://github.com/gerry-rohling/structurizr-parser) - Parses Structurizr DSL files to support workspace population, code validation and other uses
 - [peter-dickinson-books/peterdickinson.com](https://github.com/peter-dickinson-books/peterdickinson.com) - 
@@ -230,6 +228,7 @@
 - [spatialillusions/milstandard-e](https://github.com/spatialillusions/milstandard-e) - 
 - [spatialillusions/geographiclib-mgrs](https://github.com/spatialillusions/geographiclib-mgrs) - 
 - [spatialillusions/maplibre-tilepackage-protocol](https://github.com/spatialillusions/maplibre-tilepackage-protocol) - 
+- [mapbox/polylabel](https://github.com/mapbox/polylabel) - A fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++)
 - [NilsSlui/threejs-label-earth](https://github.com/NilsSlui/threejs-label-earth) - 
 - [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with spec-driven multi-agent workflows.
 - [rpbouman/huey](https://github.com/rpbouman/huey) - Light-weight, browser-based ROLAP pivot tables on top of DuckDB-WASM
@@ -642,6 +641,7 @@
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
 - [apache/sedona-db](https://github.com/apache/sedona-db) - A single-node analytical database engine with geospatial as a first-class citizen
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [lakekeeper/lakekeeper](https://github.com/lakekeeper/lakekeeper) - Lakekeeper is an Apache-Licensed, secure, fast and easy to use Apache Iceberg REST Catalog written in Rust.
