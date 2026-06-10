@@ -77,7 +77,7 @@
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [tsaoyu/PyVisiLibity](https://github.com/tsaoyu/PyVisiLibity) - Python binding of VisiLibity 1
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScrip
-- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
+- [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards.
 - [embeddedadventures/DSP-0801](https://github.com/embeddedadventures/DSP-0801) - Arduino library for the DSP-0801 alphanumeric display
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [ValveSoftware/csgo-demoinfo](https://github.com/ValveSoftware/csgo-demoinfo) - CS:GO demo parsing tool
@@ -424,7 +424,7 @@
 - [daneroo/im-teamtime](https://github.com/daneroo/im-teamtime) - iMetrical TeamTime - Team TimeZone App
 - [cgross/generator-cg-angular](https://github.com/cgross/generator-cg-angular) - Yeoman generator for Enterprise Angular projects.
 - [danielpquinn/keystone-rest](https://github.com/danielpquinn/keystone-rest) - Provides a RESTful interface to keystone lists.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [manuelbieh/geolib](https://github.com/manuelbieh/geolib) - Zero dependency library to provide some basic geo functions
 - [strongloop/loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
 - [joshuaferrara/node-csgo](https://github.com/joshuaferrara/node-csgo) - A node-steam plugin for Counter-Strike: Global Offensive.
@@ -798,7 +798,6 @@
 - [Quramy/lerna-yarn-workspaces-example](https://github.com/Quramy/lerna-yarn-workspaces-example) - How to build TypeScript mono-repo project with yarn and lerna
 - [microsoft/TypeScript-Babel-Starter](https://github.com/microsoft/TypeScript-Babel-Starter) - A sample setup using Babel CLI to build TypeScript code, and using TypeScript for type-checking.
 - [nareshbhatia/lerna-workspaces-react-ts](https://github.com/nareshbhatia/lerna-workspaces-react-ts) - React TypeScript template using Lerna and Yarn Workspaces
-- [material-components/material-components-web-react](https://github.com/material-components/material-components-web-react) - Material Components for React (MDC React)
 - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
