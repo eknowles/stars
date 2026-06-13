@@ -1523,6 +1523,7 @@
 
 ## others 
 
+- [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [Effect-TS/skills](https://github.com/Effect-TS/skills) - 
 - [tobilg/latlng](https://github.com/tobilg/latlng) - Open Source geospatial object engine written in Rust
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
