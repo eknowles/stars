@@ -221,6 +221,7 @@
 
 ## JavaScript 
 
+- [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 - [eknowles/angular-color-this](https://github.com/eknowles/angular-color-this) - :abcd::rainbow: Angular module for generating colors from strings
 - [getodk/central](https://github.com/getodk/central) - ODK Central is a server that is easy to use, very fast, and stuffed with features that make data collection easier. Contribute and make the world a better place! ✨🗄✨
 - [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
