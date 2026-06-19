@@ -1523,6 +1523,7 @@
 
 ## others 
 
+- [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [Effect-TS/skills](https://github.com/Effect-TS/skills) - 
 - [tobilg/latlng](https://github.com/tobilg/latlng) - Open Source geospatial object engine written in Rust
