@@ -557,6 +557,7 @@
 
 ## Python 
 
+- [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) - Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
 - [telicent-oss/ies-tool](https://github.com/telicent-oss/ies-tool) - A library for working with the IES data standard.
 - [rigplane/rigplane-core](https://github.com/rigplane/rigplane-core) - Python library for controlling Icom transceivers over LAN (UDP) — no wfview/hamlib required
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
