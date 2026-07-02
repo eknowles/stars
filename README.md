@@ -700,6 +700,7 @@
 
 ## TypeScript 
 
+- [manzt/zarrita.js](https://github.com/manzt/zarrita.js) - A JavaScript toolkit for working with chunked, compressed, n-dimensional arrays
 - [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
