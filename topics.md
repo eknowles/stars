@@ -1556,6 +1556,7 @@
 
 ## others 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [Effect-TS/skills](https://github.com/Effect-TS/skills) - 
