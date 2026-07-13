@@ -222,6 +222,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [finos/regular-table](https://github.com/finos/regular-table) - A regular &lt;table&gt; library, for async and virtual data models.
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
