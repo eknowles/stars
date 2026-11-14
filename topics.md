@@ -1695,7 +1695,7 @@
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [milleleaf/world-flights](https://github.com/milleleaf/world-flights) - Worldwide flight traces from adsb.lol (ODbL): yesterday as GeoParquet + a replay file, daily; Hong Kong near-live snapshots
 - [ngageoint/opensphere](https://github.com/ngageoint/opensphere) - OpenSphere
-- [portolan-sdi/portolan-spec](https://github.com/portolan-sdi/portolan-spec) - Specification and best practices for Portolan SDI
+- [portolan-sdi/portolan-spec](https://github.com/portolan-sdi/portolan-spec) - Specification and best practices for Portolan SDI.
 - [ngageoint/six-library](https://github.com/ngageoint/six-library) - Sensor Independent XML Library
 - [foldkit/foldkit](https://github.com/foldkit/foldkit) - 
 - [developmentseed/deck.gl-raster](https://github.com/developmentseed/deck.gl-raster) - Client-side, WebGL2 GeoTIFF & Zarr visualization in deck.gl
