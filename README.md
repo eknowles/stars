@@ -582,7 +582,7 @@
 ## Python 
 
 - [milleleaf/world-flights](https://github.com/milleleaf/world-flights) - Worldwide flight traces from adsb.lol (ODbL): yesterday as GeoParquet + a replay file, daily; Hong Kong near-live snapshots
-- [portolan-sdi/portolan-spec](https://github.com/portolan-sdi/portolan-spec) - Specification and best practices for Portolan SDI
+- [portolan-sdi/portolan-spec](https://github.com/portolan-sdi/portolan-spec) - Specification and best practices for Portolan SDI.
 - [echostack-org/echoshader](https://github.com/echostack-org/echoshader) - Interactive visualization of ocean sonar data
 - [moj-analytical-services/splink](https://github.com/moj-analytical-services/splink) - Fast, accurate and scalable probabilistic data linkage with support for multiple SQL backends
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
