@@ -668,6 +668,7 @@
 
 ## Rust 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [earth-mover/icechunk](https://github.com/earth-mover/icechunk) - Open-source, cloud-native transactional tensor storage engine
 - [BertCh/spatiotemporal-tiles](https://github.com/BertCh/spatiotemporal-tiles) - The open format and Rust toolchain for time-aware vector tiles: stream full-fidelity spatiotemporal data by map viewport AND time window from a static host or a live database
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
