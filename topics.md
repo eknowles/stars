@@ -284,7 +284,7 @@
 - [vercel/chat](https://github.com/vercel/chat) - Universal chat layer for building bots and agents.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
@@ -807,6 +807,7 @@
 
 ## docker 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [gotempsh/temps](https://github.com/gotempsh/temps) - AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCode — deployments, analytics, session rep
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
@@ -1326,6 +1327,7 @@
 
 ## kubernetes 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
@@ -1380,6 +1382,7 @@
 
 ## linux 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1392,7 +1395,7 @@
 ## llm 
 
 - [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) - Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
@@ -1418,7 +1421,7 @@
 
 ## mac 
 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -1436,6 +1439,7 @@
 
 ## macos 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -2272,7 +2276,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [gotempsh/temps](https://github.com/gotempsh/temps) - AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCode — deployments, analytics, session rep
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [brunojppb/turbo-cache-server](https://github.com/brunojppb/turbo-cache-server) - Blazingly fast Turborepo remote cache server written in Rust as a Github Action with Docker support for Linux and MacOS
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Language Core and API
 - [apache/sedona-db](https://github.com/apache/sedona-db) - A single-node analytical database engine with geospatial as a first-class citizen
@@ -2329,7 +2333,7 @@
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control wh
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
@@ -2636,7 +2640,8 @@
 
 ## windows 
 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
