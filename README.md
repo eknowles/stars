@@ -54,6 +54,7 @@
 
 ## C 
 
+- [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) - JA4+ is a suite of network fingerprinting standards
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
@@ -675,7 +676,6 @@
 - [gotempsh/temps](https://github.com/gotempsh/temps) - AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCode — deployments, analytics, session rep
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-- [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) - JA4+ is a suite of network fingerprinting standards
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [tobilg/latlng](https://github.com/tobilg/latlng) - Open Source geospatial object engine written in Rust
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
