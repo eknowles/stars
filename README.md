@@ -582,6 +582,7 @@
 
 ## Python 
 
+- [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [milleleaf/world-flights](https://github.com/milleleaf/world-flights) - Worldwide flight traces from adsb.lol (ODbL): yesterday as GeoParquet + a replay file, daily; Hong Kong near-live snapshots
 - [portolan-sdi/portolan-spec](https://github.com/portolan-sdi/portolan-spec) - Specification and best practices for Portolan SDI.
 - [echostack-org/echoshader](https://github.com/echostack-org/echoshader) - Interactive visualization of ocean sonar data
