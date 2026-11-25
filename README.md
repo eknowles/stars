@@ -175,7 +175,6 @@
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [planetlabs/gpq](https://github.com/planetlabs/gpq) - Utility for working with GeoParquet
 - [slingdata-io/sling-cli](https://github.com/slingdata-io/sling-cli) - Sling is a CLI tool that extracts data from a source storage/database and loads it in a target storage/database.
-- [rilldata/rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
 - [itayankri/valhalla-operator](https://github.com/itayankri/valhalla-operator) - A kubernetes operator for Valhalla routing engine
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 - [glennzw/maltegogo](https://github.com/glennzw/maltegogo) - Maltego library in Go
@@ -816,7 +815,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
-- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - AI companion for Paperless-ngx: automatically titles, tags and files your documents, reads bad scans with local OCR (PaddleOCR, CPU/GPU) and answers questions about your whole archive with cited sourc
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - AI companion for Paperless-ngx OR it's own document managment system: automatically titles, tags and files your documents, reads bad scans with local OCR (PaddleOCR, CPU/GPU) and answers questions abo
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [louisescher/starlight-ion-theme](https://github.com/louisescher/starlight-ion-theme) - A sleek, modern theme for Starlight.
@@ -841,6 +840,7 @@
 - [onthegomap/maplibre-contour](https://github.com/onthegomap/maplibre-contour) - Render contour lines from raster DEM tiles in maplibre-gl-js
 - [qlaffont/graceful-server-elysia](https://github.com/qlaffont/graceful-server-elysia) - 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [rilldata/rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
 - [nilsnolde/routingjs](https://github.com/nilsnolde/routingjs) - Library for consistent access to various vehicle routing APIs
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
